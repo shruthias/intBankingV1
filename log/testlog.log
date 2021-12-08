@@ -1,0 +1,279 @@
+2021-11-28 23:26:39,481 - BaseClass -INFO - URL is opened
+2021-11-28 23:26:40,930 - BaseClass -INFO - Logged in
+2021-11-28 23:26:40,939 - BaseClass -INFO - Login test Passed
+2021-11-29 12:17:23,122 - BaseClass -INFO - URL is opened
+2021-11-29 12:17:25,273 - BaseClass -INFO - Logged in
+2021-11-29 12:17:25,293 - BaseClass -INFO - Login test Passed
+2021-11-29 12:23:57,537 - BaseClass -INFO - URL is opened
+2021-11-29 12:23:59,239 - BaseClass -INFO - Logged in
+2021-11-29 12:23:59,252 - BaseClass -INFO - Login test Passed
+2021-11-29 20:01:32,685 - BaseClass -INFO - URL is opened
+2021-11-29 20:01:33,897 - BaseClass -INFO - Logged in
+2021-11-29 20:01:33,901 - BaseClass -INFO - Login test Passed
+2021-11-29 20:02:05,062 - BaseClass -INFO - URL is opened
+2021-11-29 20:02:06,140 - BaseClass -INFO - Logged in
+2021-11-29 20:02:06,144 - BaseClass -INFO - Login test Passed
+2021-11-29 22:46:10,397 - BaseClass -INFO - URL is opened
+2021-11-29 22:46:11,790 - BaseClass -INFO - Logged in
+2021-11-29 22:46:11,806 - BaseClass -INFO - Login test Passed
+2021-11-29 23:02:59,121 - BaseClass -INFO - URL is opened
+2021-11-29 23:03:00,472 - BaseClass -INFO - Logged in
+2021-11-29 23:03:00,489 - BaseClass -INFO - Login test Passed
+2021-11-29 23:05:48,185 - BaseClass -INFO - URL is opened
+2021-11-29 23:05:49,506 - BaseClass -INFO - Logged in
+2021-11-29 23:05:49,525 - BaseClass -INFO - Login test Passed
+2021-11-29 23:16:10,898 - BaseClass -INFO - URL is opened
+2021-11-29 23:16:12,272 - BaseClass -INFO - Logged in
+2021-11-29 23:16:12,288 - BaseClass -INFO - Login test Passed
+2021-11-30 13:53:45,048 - BaseClass -INFO - URL is opened
+2021-11-30 13:53:46,300 - BaseClass -INFO - Logged in
+2021-11-30 13:53:46,311 - BaseClass -INFO - Login test Passed
+2021-11-30 14:01:15,925 - BaseClass -INFO - URL is opened
+2021-11-30 14:01:17,745 - BaseClass -INFO - Logged in
+2021-11-30 14:01:17,771 - BaseClass -INFO - Login test Passed
+2021-11-30 18:16:42,442 - BaseClass -INFO - URL is opened
+2021-11-30 18:16:44,454 - BaseClass -INFO - Logged in
+2021-11-30 18:22:33,065 - BaseClass -INFO - URL is opened
+2021-11-30 18:22:34,773 - BaseClass -INFO - Logged in
+2021-11-30 18:28:27,169 - BaseClass -INFO - URL is opened
+2021-11-30 18:28:29,047 - BaseClass -INFO - Logged in
+2021-11-30 18:39:47,014 - BaseClass -INFO - URL is opened
+2021-11-30 18:39:48,813 - BaseClass -INFO - Logged in
+2021-11-30 18:41:58,096 - BaseClass -INFO - URL is opened
+2021-11-30 18:41:59,935 - BaseClass -INFO - Logged in
+2021-11-30 18:47:17,677 - BaseClass -INFO - URL is opened
+2021-11-30 18:47:19,490 - BaseClass -INFO - Logged in
+2021-11-30 18:50:15,346 - BaseClass -INFO - URL is opened
+2021-11-30 18:50:17,456 - BaseClass -INFO - Logged in
+2021-11-30 18:51:55,185 - BaseClass -INFO - URL is opened
+2021-11-30 18:51:57,501 - BaseClass -INFO - Logged in
+2021-11-30 18:51:57,520 - BaseClass -INFO - Login test Passed
+2021-11-30 18:59:28,931 - BaseClass -INFO - URL is opened
+2021-11-30 18:59:30,778 - BaseClass -INFO - Logged in
+2021-11-30 19:12:57,903 - BaseClass -INFO - URL is opened
+2021-11-30 19:12:59,554 - BaseClass -INFO - Logged in
+2021-11-30 19:12:59,584 - BaseClass -INFO - Login test Passed
+2021-11-30 19:15:28,329 - BaseClass -INFO - URL is opened
+2021-11-30 19:15:30,183 - BaseClass -INFO - Logged in
+2021-11-30 23:22:59,422 - BaseClass -INFO - user name provided
+2021-11-30 23:22:59,518 - BaseClass -INFO - password provided
+2021-11-30 23:23:04,207 - BaseClass -INFO - Login passed
+2021-11-30 23:23:09,781 - BaseClass -INFO - user name provided
+2021-11-30 23:23:09,881 - BaseClass -INFO - password provided
+2021-11-30 23:23:15,000 - BaseClass -INFO - user name provided
+2021-11-30 23:23:15,091 - BaseClass -INFO - password provided
+2021-11-30 23:23:20,143 - BaseClass -INFO - user name provided
+2021-11-30 23:23:20,242 - BaseClass -INFO - password provided
+2021-11-30 23:23:25,479 - BaseClass -INFO - user name provided
+2021-11-30 23:23:25,572 - BaseClass -INFO - password provided
+2021-11-30 23:23:29,765 - BaseClass -INFO - Login passed
+2021-12-01 18:52:32,588 - BaseClass -INFO - User name is provided
+2021-12-01 18:52:32,649 - BaseClass -INFO - Passsword is provided
+2021-12-01 18:52:37,574 - BaseClass -INFO - providing customer details....
+2021-12-01 18:52:47,204 - BaseClass -INFO - validation started....
+2021-12-01 18:52:47,229 - BaseClass -INFO - test case passed....
+2021-12-01 19:04:59,605 - BaseClass -INFO - URL is opened
+2021-12-01 19:05:01,049 - BaseClass -INFO - Logged in
+2021-12-01 19:05:05,055 - BaseClass -INFO - user name provided
+2021-12-01 19:05:05,098 - BaseClass -INFO - password provided
+2021-12-01 19:05:09,303 - BaseClass -INFO - Login passed
+2021-12-01 19:05:14,535 - BaseClass -INFO - user name provided
+2021-12-01 19:05:14,582 - BaseClass -INFO - password provided
+2021-12-01 19:05:19,456 - BaseClass -INFO - user name provided
+2021-12-01 19:05:19,496 - BaseClass -INFO - password provided
+2021-12-01 19:05:24,584 - BaseClass -INFO - user name provided
+2021-12-01 19:05:24,629 - BaseClass -INFO - password provided
+2021-12-01 19:05:29,620 - BaseClass -INFO - user name provided
+2021-12-01 19:05:29,657 - BaseClass -INFO - password provided
+2021-12-01 19:05:33,693 - BaseClass -INFO - Login passed
+2021-12-01 19:05:42,238 - BaseClass -INFO - User name is provided
+2021-12-01 19:05:42,283 - BaseClass -INFO - Passsword is provided
+2021-12-01 19:05:47,261 - BaseClass -INFO - providing customer details....
+2021-12-01 19:05:57,039 - BaseClass -INFO - validation started....
+2021-12-01 19:05:57,060 - BaseClass -INFO - test case passed....
+2021-12-01 19:10:00,168 - BaseClass -INFO - URL is opened
+2021-12-01 19:10:02,009 - BaseClass -INFO - Logged in
+2021-12-01 19:10:02,016 - BaseClass -INFO - Login test Passed
+2021-12-01 19:10:05,652 - BaseClass -INFO - user name provided
+2021-12-01 19:10:05,695 - BaseClass -INFO - password provided
+2021-12-01 19:10:10,656 - BaseClass -INFO - user name provided
+2021-12-01 19:10:10,696 - BaseClass -INFO - password provided
+2021-12-01 19:10:15,671 - BaseClass -INFO - user name provided
+2021-12-01 19:10:15,719 - BaseClass -INFO - password provided
+2021-12-05 15:36:39,530 - BaseClass -INFO - URL is opened
+2021-12-05 15:36:41,394 - BaseClass -INFO - Logged in
+2021-12-05 15:36:41,417 - BaseClass -INFO - Login test Passed
+2021-12-05 15:36:47,010 - BaseClass -INFO - user name provided
+2021-12-05 15:36:47,094 - BaseClass -INFO - password provided
+2021-12-05 15:36:51,994 - BaseClass -INFO - Login passed
+2021-12-05 15:36:57,448 - BaseClass -INFO - user name provided
+2021-12-05 15:36:57,551 - BaseClass -INFO - password provided
+2021-12-05 15:37:02,966 - BaseClass -INFO - user name provided
+2021-12-05 15:37:03,050 - BaseClass -INFO - password provided
+2021-12-05 15:37:08,095 - BaseClass -INFO - user name provided
+2021-12-05 15:37:08,195 - BaseClass -INFO - password provided
+2021-12-05 15:37:13,534 - BaseClass -INFO - user name provided
+2021-12-05 15:37:13,625 - BaseClass -INFO - password provided
+2021-12-05 15:37:18,023 - BaseClass -INFO - Login passed
+2021-12-05 15:37:27,774 - BaseClass -INFO - User name is provided
+2021-12-05 15:37:27,854 - BaseClass -INFO - Passsword is provided
+2021-12-05 15:37:32,986 - BaseClass -INFO - providing customer details....
+2021-12-05 15:37:42,774 - BaseClass -INFO - validation started....
+2021-12-05 17:13:21,997 - BaseClass -INFO - URL is opened
+2021-12-05 17:13:24,248 - BaseClass -INFO - Logged in
+2021-12-05 17:13:24,271 - BaseClass -INFO - Login test Passed
+2021-12-05 17:13:30,214 - BaseClass -INFO - user name provided
+2021-12-05 17:13:30,293 - BaseClass -INFO - password provided
+2021-12-05 17:13:35,194 - BaseClass -INFO - Login passed
+2021-12-05 17:13:41,585 - BaseClass -INFO - user name provided
+2021-12-05 17:13:41,702 - BaseClass -INFO - password provided
+2021-12-05 17:13:47,018 - BaseClass -INFO - user name provided
+2021-12-05 17:13:47,142 - BaseClass -INFO - password provided
+2021-12-05 17:13:52,235 - BaseClass -INFO - user name provided
+2021-12-05 17:13:52,350 - BaseClass -INFO - password provided
+2021-12-05 17:13:57,474 - BaseClass -INFO - user name provided
+2021-12-05 17:13:57,587 - BaseClass -INFO - password provided
+2021-12-05 17:14:02,177 - BaseClass -INFO - Login passed
+2021-12-05 17:14:12,030 - BaseClass -INFO - User name is provided
+2021-12-05 17:14:12,112 - BaseClass -INFO - Passsword is provided
+2021-12-05 17:14:17,214 - BaseClass -INFO - providing customer details....
+2021-12-05 17:14:27,717 - BaseClass -INFO - validation started....
+2021-12-05 17:14:27,732 - BaseClass -INFO - test case passed....
+2021-12-05 17:18:51,049 - BaseClass -INFO - URL is opened
+2021-12-05 17:18:52,976 - BaseClass -INFO - Logged in
+2021-12-05 17:18:52,992 - BaseClass -INFO - Login test Passed
+2021-12-05 17:18:58,556 - BaseClass -INFO - user name provided
+2021-12-05 17:18:58,640 - BaseClass -INFO - password provided
+2021-12-05 17:19:03,479 - BaseClass -INFO - Login passed
+2021-12-05 17:19:10,295 - BaseClass -INFO - user name provided
+2021-12-05 17:19:10,423 - BaseClass -INFO - password provided
+2021-12-05 17:19:16,227 - BaseClass -INFO - user name provided
+2021-12-05 17:19:16,343 - BaseClass -INFO - password provided
+2021-12-05 17:19:21,680 - BaseClass -INFO - user name provided
+2021-12-05 17:19:21,804 - BaseClass -INFO - password provided
+2021-12-05 17:19:27,264 - BaseClass -INFO - user name provided
+2021-12-05 17:19:27,350 - BaseClass -INFO - password provided
+2021-12-05 17:19:31,524 - BaseClass -INFO - Login passed
+2021-12-05 17:19:41,263 - BaseClass -INFO - User name is provided
+2021-12-05 17:19:41,344 - BaseClass -INFO - Passsword is provided
+2021-12-05 17:19:46,534 - BaseClass -INFO - providing customer details....
+2021-12-05 17:19:57,759 - BaseClass -INFO - validation started....
+2021-12-05 17:19:57,781 - BaseClass -INFO - test case passed....
+2021-12-05 17:26:25,366 - BaseClass -INFO - URL is opened
+2021-12-05 17:26:27,414 - BaseClass -INFO - Logged in
+2021-12-05 17:26:27,431 - BaseClass -INFO - Login test Passed
+2021-12-05 17:26:31,541 - BaseClass -INFO - User name is provided
+2021-12-05 17:26:31,620 - BaseClass -INFO - Passsword is provided
+2021-12-05 17:26:36,507 - BaseClass -INFO - providing customer details....
+2021-12-05 17:26:47,151 - BaseClass -INFO - validation started....
+2021-12-05 17:26:47,180 - BaseClass -INFO - test case passed....
+2021-12-05 17:35:33,932 - BaseClass -INFO - URL is opened
+2021-12-05 17:35:35,792 - BaseClass -INFO - Logged in
+2021-12-05 17:35:35,809 - BaseClass -INFO - Login test Passed
+2021-12-05 17:35:39,979 - BaseClass -INFO - User name is provided
+2021-12-05 17:35:40,056 - BaseClass -INFO - Passsword is provided
+2021-12-05 17:35:45,061 - BaseClass -INFO - providing customer details....
+2021-12-05 17:35:55,925 - BaseClass -INFO - validation started....
+2021-12-05 17:35:55,944 - BaseClass -INFO - test case passed....
+2021-12-06 15:14:32,836 - BaseClass -INFO - URL is opened
+2021-12-06 15:14:34,559 - BaseClass -INFO - Logged in
+2021-12-06 15:14:34,576 - BaseClass -INFO - Login test Passed
+2021-12-06 15:14:38,594 - BaseClass -INFO - User name is provided
+2021-12-06 15:14:38,682 - BaseClass -INFO - Passsword is provided
+2021-12-06 15:14:43,793 - BaseClass -INFO - providing customer details....
+2021-12-06 15:14:54,112 - BaseClass -INFO - validation started....
+2021-12-06 15:14:54,135 - BaseClass -INFO - test case passed....
+2021-12-07 11:40:52,652 - BaseClass -INFO - URL is opened
+2021-12-07 11:40:54,499 - BaseClass -INFO - Logged in
+2021-12-07 11:40:54,511 - BaseClass -INFO - Login test Passed
+2021-12-07 11:40:58,779 - BaseClass -INFO - User name is provided
+2021-12-07 11:40:58,866 - BaseClass -INFO - Passsword is provided
+2021-12-07 11:41:03,934 - BaseClass -INFO - providing customer details....
+2021-12-07 11:41:14,323 - BaseClass -INFO - validation started....
+2021-12-07 11:41:14,340 - BaseClass -INFO - test case passed....
+2021-12-07 13:59:29,806 - BaseClass -INFO - URL is opened
+2021-12-07 13:59:31,833 - BaseClass -INFO - Logged in
+2021-12-07 13:59:31,850 - BaseClass -INFO - Login test Passed
+2021-12-07 13:59:36,242 - BaseClass -INFO - User name is provided
+2021-12-07 13:59:36,319 - BaseClass -INFO - Passsword is provided
+2021-12-07 13:59:41,362 - BaseClass -INFO - providing customer details....
+2021-12-07 13:59:51,452 - BaseClass -INFO - validation started....
+2021-12-07 13:59:51,477 - BaseClass -INFO - test case passed....
+2021-12-07 15:03:09,078 - BaseClass -INFO - URL is opened
+2021-12-07 15:03:10,942 - BaseClass -INFO - Logged in
+2021-12-07 15:03:10,947 - BaseClass -INFO - Login test Passed
+2021-12-07 15:03:15,068 - BaseClass -INFO - User name is provided
+2021-12-07 15:03:15,109 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:03:22,022 - BaseClass -INFO - providing customer details....
+2021-12-07 15:03:31,950 - BaseClass -INFO - validation started....
+2021-12-07 15:03:31,969 - BaseClass -INFO - test case passed....
+2021-12-07 15:08:37,962 - BaseClass -INFO - URL is opened
+2021-12-07 15:08:39,899 - BaseClass -INFO - Logged in
+2021-12-07 15:08:39,910 - BaseClass -INFO - Login test Passed
+2021-12-07 15:08:43,479 - BaseClass -INFO - User name is provided
+2021-12-07 15:08:43,522 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:08:50,579 - BaseClass -INFO - providing customer details....
+2021-12-07 15:08:59,911 - BaseClass -INFO - validation started....
+2021-12-07 15:10:20,424 - BaseClass -INFO - URL is opened
+2021-12-07 15:10:22,315 - BaseClass -INFO - Logged in
+2021-12-07 15:10:22,323 - BaseClass -INFO - Login test Passed
+2021-12-07 15:10:25,946 - BaseClass -INFO - User name is provided
+2021-12-07 15:10:25,986 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:10:33,110 - BaseClass -INFO - providing customer details....
+2021-12-07 15:10:42,416 - BaseClass -INFO - validation started....
+2021-12-07 15:12:35,886 - BaseClass -INFO - URL is opened
+2021-12-07 15:12:37,409 - BaseClass -INFO - Logged in
+2021-12-07 15:12:37,417 - BaseClass -INFO - Login test Passed
+2021-12-07 15:12:40,780 - BaseClass -INFO - User name is provided
+2021-12-07 15:12:40,820 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:12:47,795 - BaseClass -INFO - providing customer details....
+2021-12-07 15:12:57,739 - BaseClass -INFO - validation started....
+2021-12-07 15:12:57,755 - BaseClass -INFO - test case passed....
+2021-12-07 15:13:32,596 - BaseClass -INFO - URL is opened
+2021-12-07 15:13:34,454 - BaseClass -INFO - Logged in
+2021-12-07 15:13:34,461 - BaseClass -INFO - Login test Passed
+2021-12-07 15:13:37,899 - BaseClass -INFO - User name is provided
+2021-12-07 15:13:37,941 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:13:44,872 - BaseClass -INFO - providing customer details....
+2021-12-07 15:13:54,827 - BaseClass -INFO - validation started....
+2021-12-07 15:13:54,842 - BaseClass -INFO - test case passed....
+2021-12-07 15:20:11,048 - BaseClass -INFO - URL is opened
+2021-12-07 15:20:12,572 - BaseClass -INFO - Logged in
+2021-12-07 15:20:12,578 - BaseClass -INFO - Login test Passed
+2021-12-07 15:20:16,024 - BaseClass -INFO - User name is provided
+2021-12-07 15:20:16,069 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:20:22,989 - BaseClass -INFO - providing customer details....
+2021-12-07 15:20:32,786 - BaseClass -INFO - validation started....
+2021-12-07 15:20:32,802 - BaseClass -INFO - test case passed....
+2021-12-07 15:21:20,818 - BaseClass -INFO - URL is opened
+2021-12-07 15:21:22,568 - BaseClass -INFO - Logged in
+2021-12-07 15:21:22,578 - BaseClass -INFO - Login test Passed
+2021-12-07 15:21:26,654 - BaseClass -INFO - User name is provided
+2021-12-07 15:21:26,707 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:21:33,457 - BaseClass -INFO - providing customer details....
+2021-12-07 15:21:43,560 - BaseClass -INFO - validation started....
+2021-12-07 15:21:43,591 - BaseClass -INFO - test case passed....
+2021-12-07 15:22:06,391 - BaseClass -INFO - URL is opened
+2021-12-07 15:22:08,119 - BaseClass -INFO - Logged in
+2021-12-07 15:22:08,127 - BaseClass -INFO - Login test Passed
+2021-12-07 15:22:12,478 - BaseClass -INFO - User name is provided
+2021-12-07 15:22:12,530 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:22:19,302 - BaseClass -INFO - providing customer details....
+2021-12-07 15:22:29,302 - BaseClass -INFO - validation started....
+2021-12-07 15:22:29,333 - BaseClass -INFO - test case passed....
+2021-12-07 15:23:04,182 - BaseClass -INFO - URL is opened
+2021-12-07 15:23:05,664 - BaseClass -INFO - Logged in
+2021-12-07 15:23:05,669 - BaseClass -INFO - Login test Passed
+2021-12-07 15:23:09,870 - BaseClass -INFO - User name is provided
+2021-12-07 15:23:09,924 - BaseClass -INFO - Passsword is provided
+2021-12-07 15:23:16,703 - BaseClass -INFO - providing customer details....
+2021-12-07 15:23:26,682 - BaseClass -INFO - validation started....
+2021-12-07 15:23:26,712 - BaseClass -INFO - test case passed....
+2021-12-07 16:50:53,542 - BaseClass -INFO - URL is opened
+2021-12-07 16:50:55,436 - BaseClass -INFO - Logged in
+2021-12-07 16:50:55,453 - BaseClass -INFO - Login test Passed
+2021-12-07 16:51:00,231 - BaseClass -INFO - User name is provided
+2021-12-07 16:51:00,323 - BaseClass -INFO - Passsword is provided
+2021-12-07 16:51:07,231 - BaseClass -INFO - providing customer details....
+2021-12-07 16:51:18,095 - BaseClass -INFO - validation started....
+2021-12-07 16:51:18,130 - BaseClass -INFO - test case passed....
